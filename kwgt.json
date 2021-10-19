@@ -215,13 +215,97 @@
        "name": "PIXEL6-6",
        "collections": "Pixel_6_Leak"
      },
-          {
+     {
        "author": "wallfever",
        "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/unseen%20universe%2028.png",
        "name": "UNSEEN-UNIVERSE-28",
        "collections": "UNSEEN-UNIVERSE"
      },
-          {
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack1.png",
+       "name": "wall-packs-1",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack2.png",
+       "name": "wall-packs-2",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack3.png",
+       "name": "wall-packs-3",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack4.png",
+       "name": "wall-packs-4",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack5.png",
+       "name": "wall-packs-5",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack6.png",
+       "name": "wall-packs-6",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack7.png",
+       "name": "wall-packs-7",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack8.png",
+       "name": "wall-packs-8",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack9.png",
+       "name": "wall-packs-9",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack10.png",
+       "name": "wall-packs-10",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack11.png",
+       "name": "wall-packs-11",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack12.png",
+       "name": "wall-packs-12",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack13.png",
+       "name": "wall-packs-13",
+       "collections": "WALLPACKS"
+     },
+     {
+       "author": "nexus",
+       "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/walls_pack14.png",
+       "name": "wall-packs-14",
+       "collections": "WALLPACKS"
+     },
+    {
        "author": "dlwlrma123",
        "url": "https://imagizer.imageshack.com/img923/779/NydNzS.png",
        "name": "MATERIAL-FLOWER",
