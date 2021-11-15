@@ -1,6 +1,12 @@
 [
     {
       "author": "dlwlrma123",
+      "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/jinx.png",
+      "name": "JINX",
+      "collections": "ARCANE_LEAGUE"
+    },
+    {
+      "author": "dlwlrma123",
       "url": "https://imagizer.imageshack.com/img923/3830/erXquf.png",
       "name": "NEKO",
       "collections": "Animals"
@@ -8,7 +14,7 @@
      {
        "author": "dlwlrma123",
        "url": "https://github.com/dlwlrma123/Arcanary_json/raw/main/arcane1.png",
-       "name": "arcane",
+       "name": "ARCANE",
        "collections": "legacy"
      },
     {
